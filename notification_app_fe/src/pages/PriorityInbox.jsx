@@ -72,7 +72,7 @@ export default function PriorityInbox() {
   return (
     <Container maxWidth="md" sx={{ py: 4 }}>
       <Typography variant="h4" fontWeight={700} gutterBottom>
-        ⭐ Priority Inbox
+         Priority Inbox
       </Typography>
 
       <Typography variant="body2" color="text.secondary" sx={{ mb: 3 }}>
